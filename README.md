@@ -1,4 +1,4 @@
-# PeaceSpeech
+# Word differences in news media of lower and higher peace countries revealed by natural language processing and machine learning.
 Natural language processing and machine learning used to generate a quantitative index of peace in a given country using word frequency data from news media articles, in collaboration with Lin Shi, Larry Liebovitch, Ph. D, Allegra Chen-Carrel, Philippe Loustaunau, and Peter Coleman. 
 
 The data used for analysis includes:
